@@ -149,7 +149,7 @@ class Main:
 
 		idx = "100000" 
 
-		limit = int(input("\n\033[1;95m[*]Total ID (max : 80000): "))
+		limit = int(input("\n\033[1;95m[*]ALEENA💸 (max : 80000): "))
 
 		try:
 
